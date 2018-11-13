@@ -7,6 +7,7 @@ public class Student {
 	System.out.println("hello world! wangyue");
 	System.out.println("hello world! zhanglixue");
 	System.out.println("hello world! zhanglixue");
-	System.out.println("hello world! zhanglixue");
+	System.out.println("hello world! wangyue");
+	System.out.println("hello world! wangyue");
 }
 }   
